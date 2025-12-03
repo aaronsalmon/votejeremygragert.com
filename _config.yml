@@ -29,7 +29,7 @@ avatar: "/img/header-banner.jpg"
 navbar-links:
   Home: ""
   About Jeremy: "about"
-  District 3: "district"
+#  District 3: "district"
 #  Issues: "issues"
   Get Involved: "getinvolved"
   
