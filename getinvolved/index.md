@@ -20,9 +20,9 @@ Thank you for your interest in supporting this campaign! Online donations will b
 
 ### Contact Me
 
-- <span class="text-muted">email:</span> <a href="mailto:gragertforcitycouncil@gmail.com">gragertforcitycouncil@gmail.com</a>
-- <span class="text-muted">phone:</span> 715-255-0269
-- <span class="text-muted">address:</span> Gragert for City Council, 1725 9th St, Eau Claire, WI 54703
+- <span class="text-muted">Email:</span> <a href="mailto:gragertforcitycouncil@gmail.com">gragertforcitycouncil@gmail.com</a>
+- <span class="text-muted">Phone:</span> 715-255-0269
+- <span class="text-muted">Address:</span> Gragert for City Council, 1725 9th St, Eau Claire, WI 54703
 
 
 <img src="/img/JeremyGragert_CityCouncilBanner.jpg">
