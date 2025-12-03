@@ -9,7 +9,7 @@ subtitle: Eau Claire's future is in our hands
 
 ### Volunteer
 
-This is an all-volunteer campaign! While I will be reaching as many voters as I can, I cannot do it alone – Please reach out if you'd like to join the campaign.<a href="mailto:gragertforcitycouncil@gmail.com">Send me an email</a>.
+This is an all-volunteer campaign! While I will be reaching as many voters as I can, I cannot do it alone – Please reach out if you'd like to join the campaign. <a href="mailto:gragertforcitycouncil@gmail.com">Send me an email</a>.
 
 
 ### Donate
