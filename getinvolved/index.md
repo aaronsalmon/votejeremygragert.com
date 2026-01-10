@@ -12,7 +12,7 @@ This is an all-volunteer campaign! While I will be reaching as many voters as I 
 
 ### Donate
 
-Thank you for your interest in supporting this campaign! You can <a href="https://secure.actblue.com/donate/jeremy-gragert-2026" class="btn btn-info btn-sm" target="_blank">donate online</a> or mail donations to <b>Gragert for City Council, 1725 9th St, Eau Claire, WI 54703</b>. Please make checks payable to <i>"Gragert for City Council"</i>.
+Thank you for your interest in supporting this campaign! You can <a href="https://secure.actblue.com/donate/jeremy-gragert-2026" class="" target="_blank">donate online</a> or mail donations to <b>Gragert for City Council, 1725 9th St, Eau Claire, WI 54703</b>. Please make checks payable to <i>"Gragert for City Council"</i>.
 
 <i>The maximum contribution from an individual, by law, is $500. For donations $100 or more, please provide your employer and occupation.</i>
 
