@@ -8,7 +8,7 @@ subtitle: Strong community advocate
 
 I was born in Minneapolis but grew up in Stillwater, Minnesota, where I gained an appreciation for history and conservation of natural resources, living just blocks from the historic downtown and the Saint Croix River.
 
-I moved to Eau Claire in 2000 to attend UW-Eau Claire, where I became active on and off campus in important community development issues, including downtown revitalization and expanding our bike trails. I currently live in the Third Ward in my home of 11 years, but have also lived in the Historic Randall Park Neighborhood, the Eastside Hill, and in the dorms of UW-Eau Claire. I’m passionate about hiking and biking, environmental stewardship, local history, photography, and live music.
+I moved to Eau Claire in 2000 to attend UW-Eau Claire, where I became active on and off campus in important community development issues, including downtown revitalization and expanding our bike trails. I currently live on the Upper West Side of Eau Claire, but previously lived for 15 years in the Third Ward, and have also lived in the Historic Randall Park Neighborhood, the Eastside Hill, and in the dorms of UW-Eau Claire.  I’m passionate about hiking and biking, environmental stewardship, local history, photography, and live music.
 
 
 
