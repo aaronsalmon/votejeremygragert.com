@@ -162,7 +162,7 @@ img {
   transition: opacity 0.5s ease-in-out;
   left: 50%;
   width: 220px;
-  margin-left: -110px;
+  margin-left: -133px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
@@ -195,6 +195,7 @@ img {
 @media only screen and (max-width: 845px) {
   .navbar-custom .avatar-container {
     margin-top: -39px;
+    margin-left: -107px;
   }
   
   .pull-right.img-right {
@@ -519,10 +520,5 @@ header.header-post .post-heading .post-subheading {
 @media only screen and (min-width: 846px) and (max-width: 1119px) {
   .navbar-nav.nav>li>a {
     padding: 4px 12px;
-  }
-  .navbar-nav.nav>li:nth-of-type(3) {
-    clear: left;
-  }
-   .navbar-nav.nav>li:nth-of-type(1) {
   }
 }
