@@ -206,8 +206,8 @@ img {
 
 @media only screen and (min-width: 846px) {
   .navbar-custom .avatar-container {
-    width: 220px;
-    margin-top: -50px;
+    width: 270px;
+    margin-top: 3px;
   }
 
   .navbar-custom .avatar-container  .avatar-img-border {
@@ -338,12 +338,12 @@ header.header-page .page-heading {
 
 header.header-post .post-heading h1 {
   font-size: 35px;
-  margin-top: 0;
+  margin-top: 50px;
 }
 
 header.header-page .page-heading h1 {
   font-size: 50px;
-  margin-top: 0;
+  margin-top: 50px;
 }
 
 header.header-post .post-heading .post-subheading,
