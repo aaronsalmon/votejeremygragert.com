@@ -29,11 +29,9 @@ avatar: "/img/header-banner.jpg"
 navbar-links:
   Home: ""
   About Jeremy: "about"
-#  District 3: "district"
-#  Issues: "issues"
-  Get Involved: "getinvolved"
   Priorities: "priorities"
-  
+  Get Involved: "getinvolved"
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
