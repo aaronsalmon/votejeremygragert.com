@@ -37,6 +37,31 @@ h4 {
   margin: 40px 0 10px;
   line-height: 1.2;
 }
+
+.navbar .btn-donate,
+a.navbar-brand-donate,
+.top-nav-short .btn[href*="donate"],
+a[href*="actblue"] {
+  background-color: #2e7d32 !important;
+  color: #fff !important;
+  border-radius: 50% !important;
+  width: 4.2rem !important;
+  height: 4.2rem !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  font-size: 0.7rem !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+  border: none !important;
+}
+
+a[href*="actblue"]:hover {
+  background-color: #43a047 !important;
+}
+
+
 a {
   color: #1697ce;
 }
