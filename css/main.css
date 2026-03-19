@@ -38,10 +38,7 @@ h4 {
   line-height: 1.2;
 }
 
-.navbar .btn-donate,
-a.navbar-brand-donate,
-.top-nav-short .btn.donate-circle[href*="donate"],
-a[href*="actblue"] {
+.btn.donate-circle {
   background-color: #2e7d32 !important;
   color: #fff !important;
   border-radius: 50% !important;
@@ -57,7 +54,7 @@ a[href*="actblue"] {
   border: none !important;
 }
 
-a[href*="actblue"]:hover {
+ .btn.donate-circle:hover {
   background-color: #43a047 !important;
 }
 
