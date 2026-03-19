@@ -36,7 +36,7 @@ title: Endorsements
   <img src="/img/JeffSmith.png">
   <div>
     <p>"As the only candidate running who has ever served in local government, Jeremy's six years of experience on the Eau Claire City Council is the leadership our city needs."</p>
-    <p><strong>Jeff Smith, Wisconsin State Senator</strong></p>
+    <p><strong>Jeff Smith</strong>, Wisconsin State Senator</p>
   </div>
 </div>
 
@@ -44,7 +44,7 @@ title: Endorsements
   <img src="/img/KateBeatonFelton.png">
   <div>
     <p>"It's not just that Jeremy's values align with mine, it's that Jeremy's life work has been focused on including people in our democracy, helping them claim their power, and developing them as leaders. Our democracy works best when we're all involved and we all have the power to make the change that will make our lives better. Jeremy's the right leader for that job."</p>
-    <p><strong>Kate Beaton Felton, Small Business Owner</strong></p>
+    <p><strong>Kate Beaton Felton</strong>, Small Business Owner</p>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ title: Endorsements
   <img src="/img/ChristianPhelps.png">
   <div>
     <p>"Eau Claire deserves leaders at every level who believe in our neighbors and will fight for the resources our city needs. Jeremy is experienced, organized, and courageous, and I'm excited to support him for City Council President."</p>
-    <p><strong>Christian Phelps, Wisconsin State Representative</strong></p>
+    <p><strong>Christian Phelps</strong>, Wisconsin State Representative</p>
   </div>
 </div>
 
@@ -60,7 +60,7 @@ title: Endorsements
   <img src="/img/ChrisHambuch-Boyle.png">
   <div>
     <p>"Jeremy is very committed to closely working with both business and the public services that the Eau Claire community depends on. Both are needed to thrive."</p>
-    <p><strong>Chris Hambusch-Boyle, Former ECASD Board of Education President</strong></p>
+    <p><strong>Chris Hambusch-Boyle</strong>, Former ECASD Board of Education President</p>
   </div>
 </div>
 
