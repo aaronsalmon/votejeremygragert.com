@@ -22,7 +22,8 @@ title: Endorsements
 @media (max-width: 845px) {
   .endorsement-row {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
+    text-align: center;
   }
 }
 </style>
