@@ -40,7 +40,7 @@ h4 {
 
 .navbar .btn-donate,
 a.navbar-brand-donate,
-.top-nav-short .btn[href*="donate"],
+.top-nav-short .btn.donate-circle[href*="donate"],
 a[href*="actblue"] {
   background-color: #2e7d32 !important;
   color: #fff !important;
