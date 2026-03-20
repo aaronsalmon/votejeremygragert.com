@@ -60,7 +60,7 @@ title: Endorsements
   <img src="/img/ChrisHambuch-Boyle.png">
   <div>
     <p>"Jeremy is very committed to closely working with both business and the public services that the Eau Claire community depends on. Both are needed to thrive."</p>
-    <p><strong>Chris Hambusch-Boyle</strong>, Former ECASD Board of Education President</p>
+    <p><strong>Chris Hambuch-Boyle</strong>, Former ECASD Board of Education President</p>
   </div>
 </div>
 
