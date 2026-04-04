@@ -71,13 +71,13 @@ title: Endorsements
   </div>
 </div>
 <div class="endorsement-row">
-  <div>
+  <div style="margin-left: 160px;">
     <p><strong>Jordan Duroe</strong>, Arts and Culture Organizer</p>
   </div>
 </div>
 <div class="endorsement-row">
   <img src="/img/StephanieFarrar.png">
-  <div style="margin-left: 160px;">
+  <div>
     <p>"I know from experience that wherever people are meeting in Eau Claire to solve problems, you'll find Jeremy there. Whenever you have a question about how things work and how to make an impact, Jeremy will help you, personally. Whatever the issue, Jeremy is prepared, informed, and ready to bring people into the process. As a school board member, he is the candidate-of-collaboration I want to see leading the City Council."</p>
     <p><strong>Stephanie Farrar</strong>, ECASD Board of Education Clerk/Governance Officer</p>
   </div>
